@@ -1,0 +1,6 @@
+torch
+tensorboard
+scikit-learn
+pandas
+numpy
+pyreadstat   # only needed to read .sav files; .dta and .csv work without it
